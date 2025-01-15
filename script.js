@@ -1,0 +1,1 @@
+alert('Olá, estamos usando JavaScript!')
